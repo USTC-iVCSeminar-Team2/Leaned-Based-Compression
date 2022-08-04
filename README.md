@@ -48,7 +48,6 @@ python test.py --test_dir <path to kodak set> --checkpoint_path <path to model f
 
 ![](./figures/curve_psnr_new.png)
 
-
 ![](./figures/curve_msssim_new.png)
 
 其中，JPEG的编码是使用PIL库中的 `save` 方法进行的：
